@@ -548,6 +548,5 @@ console.log(`
    - Using loose equality (==)
    - Forgetting that arrays/objects are passed by reference
    - Confusing 'this' binding in different contexts
-
 Keep practicing these fundamentals - they are the foundation of JavaScript mastery!
 `);
